@@ -1,0 +1,30 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingaporePreBot3", "SingaporePreBot3\SingaporePreBot3.csproj", "{B7BDB97C-1D1F-4B40-9592-3C5F9BE6B6FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7BDB97C-1D1F-4B40-9592-3C5F9BE6B6FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7BDB97C-1D1F-4B40-9592-3C5F9BE6B6FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7BDB97C-1D1F-4B40-9592-3C5F9BE6B6FB}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B7BDB97C-1D1F-4B40-9592-3C5F9BE6B6FB}.Debug|x64.Build.0 = Debug|Any CPU
+		{B7BDB97C-1D1F-4B40-9592-3C5F9BE6B6FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7BDB97C-1D1F-4B40-9592-3C5F9BE6B6FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7BDB97C-1D1F-4B40-9592-3C5F9BE6B6FB}.Release|x64.ActiveCfg = Release|Any CPU
+		{B7BDB97C-1D1F-4B40-9592-3C5F9BE6B6FB}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6865B1B2-3337-4CE8-AE98-295FE5AEA6C8}
+	EndGlobalSection
+EndGlobal
