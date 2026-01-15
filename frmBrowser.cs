@@ -10,6 +10,7 @@ using System.Windows.Forms;
 
 namespace RichBot
 {
+    // edit by Jupyter817
     public partial class frmBrowser : Form
     {
         public frmBrowser()
